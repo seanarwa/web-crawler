@@ -1,3 +1,2 @@
-EG: 
-seantc, 11958619
-hpphan, 20243133
+seantc,11958619
+hpphan,20243133
